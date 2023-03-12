@@ -4,22 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e8f744f-4a62-4c87-9cbf-9bac531e72ff" name="Changes" comment="" />
+    <list default="true" id="5e8f744f-4a62-4c87-9cbf-9bac531e72ff" name="Changes" comment="this is my SimphiweKahlana POJO Class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -33,16 +47,28 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectId" id="2Ms394YpXrkAppEkNIQVTLmi8eh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -51,8 +77,8 @@
       <recent name="za.ac.cput.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.EmployeeTest.testEmployeeIsNull">
-    <configuration name="EmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SimphiweKahlanaTest.disabledTest">
+    <configuration name="SimphiweKahlanaTest.disabledTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ADP372S-Software-Development-Infrastructure" />
       <extension name="coverage">
         <pattern>
@@ -61,29 +87,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="za.ac.cput.domain" />
-      <option name="MAIN_CLASS_NAME" value="za.ac.cput.domain.EmployeeTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmployeeTest.testEmployeeEmailIsIdentical" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ADP372S-Software-Development-Infrastructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="za.ac.cput.domain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="za.ac.cput.domain" />
-      <option name="MAIN_CLASS_NAME" value="za.ac.cput.domain.EmployeeTest" />
-      <option name="METHOD_NAME" value="testEmployeeEmailIsIdentical" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.domain.SimphiweKahlanaTest" />
+      <option name="METHOD_NAME" value="disabledTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest.testEmployeeIdIsNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SimphiweKahlanaTest.failingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ADP372S-Software-Development-Infrastructure" />
       <extension name="coverage">
         <pattern>
@@ -92,14 +103,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="za.ac.cput.domain" />
-      <option name="MAIN_CLASS_NAME" value="za.ac.cput.domain.EmployeeTest" />
-      <option name="METHOD_NAME" value="testEmployeeIdIsNull" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.domain.SimphiweKahlanaTest" />
+      <option name="METHOD_NAME" value="failingTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest.testEmployeeIsNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SimphiweKahlanaTest.testEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ADP372S-Software-Development-Infrastructure" />
       <extension name="coverage">
         <pattern>
@@ -108,14 +119,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="za.ac.cput.domain" />
-      <option name="MAIN_CLASS_NAME" value="za.ac.cput.domain.EmployeeTest" />
-      <option name="METHOD_NAME" value="testEmployeeIsNull" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.domain.SimphiweKahlanaTest" />
+      <option name="METHOD_NAME" value="testEquality" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest.testTimeout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SimphiweKahlanaTest.testIdentity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ADP372S-Software-Development-Infrastructure" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +135,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="za.ac.cput.domain" />
-      <option name="MAIN_CLASS_NAME" value="za.ac.cput.domain.EmployeeTest" />
-      <option name="METHOD_NAME" value="testTimeout" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.domain.SimphiweKahlanaTest" />
+      <option name="METHOD_NAME" value="testIdentity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimphiweKahlanaTest.timeoutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ADP372S-Software-Development-Infrastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.domain" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.domain.SimphiweKahlanaTest" />
+      <option name="METHOD_NAME" value="timeoutTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,15 +160,52 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EmployeeTest.testEmployeeIsNull" />
-        <item itemvalue="JUnit.EmployeeTest.testEmployeeIdIsNull" />
-        <item itemvalue="JUnit.EmployeeTest" />
-        <item itemvalue="JUnit.EmployeeTest.testEmployeeEmailIsIdentical" />
-        <item itemvalue="JUnit.EmployeeTest.testTimeout" />
+        <item itemvalue="JUnit.SimphiweKahlanaTest.disabledTest" />
+        <item itemvalue="JUnit.SimphiweKahlanaTest.failingTest" />
+        <item itemvalue="JUnit.SimphiweKahlanaTest.testIdentity" />
+        <item itemvalue="JUnit.SimphiweKahlanaTest.testEquality" />
+        <item itemvalue="JUnit.SimphiweKahlanaTest.timeoutTest" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e8f744f-4a62-4c87-9cbf-9bac531e72ff" name="Changes" comment="" />
+      <created>1678542314909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678542314909</updated>
+      <workItem from="1678542321108" duration="912000" />
+      <workItem from="1678550431044" duration="1717000" />
+      <workItem from="1678552699549" duration="5521000" />
+    </task>
+    <task id="LOCAL-00001" summary="this is my SimphiweKahlana POJO Class">
+      <created>1678622768153</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678622768153</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this is my SimphiweKahlana POJO Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is my SimphiweKahlana POJO Class" />
   </component>
 </project>
