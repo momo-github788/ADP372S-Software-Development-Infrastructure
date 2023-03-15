@@ -48,6 +48,8 @@ class ProductTest {
 
     }
 
+
+    //Disabling
     @Disabled
     @Test
     void testDisableTest(){assertEquals("219090912 Paper", Product.getId() + " " + Product.getDescription()); }
